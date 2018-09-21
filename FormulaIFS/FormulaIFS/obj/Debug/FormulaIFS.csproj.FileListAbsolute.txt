@@ -1,0 +1,16 @@
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\FormulaIFS.exe.config
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\FormulaIFS.exe
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\FormulaIFS.pdb
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\EntityFramework.dll
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\EntityFramework.xml
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.csprojAssemblyReference.cache
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.csproj.CopyComplete
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.exe
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.pdb
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.Migrations.primeiraMigracao.resources
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.csproj.GenerateResource.cache
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.Migrations.segundaMigracao.resources
+C:\Users\Joice\source\repos\FormulaIFS\FormulaIFS\obj\Debug\FormulaIFS.Migrations.addnovaTabela_Participacao.resources
